@@ -1,1 +1,1 @@
-# how-to
+# how-to-azure
